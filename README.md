@@ -1,6 +1,6 @@
 # shop_app
 
-Shop App Demo
+Shop App Demo (BLoC)
 
 
 ## Demo
