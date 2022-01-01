@@ -5,5 +5,5 @@ Shop App Demo (BLoC)
 
 ## Demo
 
-https://user-images.githubusercontent.com/32467495/147861961-cf2db875-8520-44da-9f59-96530660e1b2.mp4
+https://user-images.githubusercontent.com/32467495/147862083-575c4682-c556-4df6-9170-f0df07b0bbdd.mp4
 
