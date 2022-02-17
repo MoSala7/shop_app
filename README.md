@@ -1,7 +1,7 @@
 # shop_app
 
 Shop App Demo (BLoC)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoSala7&repo=shop_app-BLoC-)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Demo
 
